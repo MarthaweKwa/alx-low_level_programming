@@ -10,3 +10,4 @@ int sqrt1_recursion(int n, int i);
 int getprime(int n, int y);
 int palindrome(char *s, int i, int y);
 int is_palindrome(char *s);
+int wildcmp(char *s1, char *s2);
